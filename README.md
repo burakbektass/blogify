@@ -1,6 +1,9 @@
 # blogify
 MongoDB / Express / React js / Node js full stack blog application (resource: @codingwithdidem)
 
+To start;
+write "npm start" for both client and server folders in different terminals then it will direct you to the localhost
+
 Frameworks, libraries and technologies ;
 
 -> MongoDB: No-SQL database (collections, JSON)
